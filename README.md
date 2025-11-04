@@ -1,2 +1,3 @@
 # bookbot
-This is a Bookbot made in pyhton with the help of boot.dev
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
